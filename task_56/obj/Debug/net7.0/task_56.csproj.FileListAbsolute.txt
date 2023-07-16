@@ -1,0 +1,15 @@
+D:\C#\Seminar_8\task_56\bin\Debug\net7.0\task_56.exe
+D:\C#\Seminar_8\task_56\bin\Debug\net7.0\task_56.deps.json
+D:\C#\Seminar_8\task_56\bin\Debug\net7.0\task_56.runtimeconfig.json
+D:\C#\Seminar_8\task_56\bin\Debug\net7.0\task_56.dll
+D:\C#\Seminar_8\task_56\bin\Debug\net7.0\task_56.pdb
+D:\C#\Seminar_8\task_56\obj\Debug\net7.0\task_56.csproj.AssemblyReference.cache
+D:\C#\Seminar_8\task_56\obj\Debug\net7.0\task_56.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Seminar_8\task_56\obj\Debug\net7.0\task_56.AssemblyInfoInputs.cache
+D:\C#\Seminar_8\task_56\obj\Debug\net7.0\task_56.AssemblyInfo.cs
+D:\C#\Seminar_8\task_56\obj\Debug\net7.0\task_56.csproj.CoreCompileInputs.cache
+D:\C#\Seminar_8\task_56\obj\Debug\net7.0\task_56.dll
+D:\C#\Seminar_8\task_56\obj\Debug\net7.0\refint\task_56.dll
+D:\C#\Seminar_8\task_56\obj\Debug\net7.0\task_56.pdb
+D:\C#\Seminar_8\task_56\obj\Debug\net7.0\task_56.genruntimeconfig.cache
+D:\C#\Seminar_8\task_56\obj\Debug\net7.0\ref\task_56.dll
